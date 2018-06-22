@@ -10,6 +10,7 @@ brew 'nodenv'
 brew 'node-build'
 brew 'git'
 brew 'jenv'
+brew 'bash_completion'
 
 cask 'docker'
 cask 'google-chrome'
