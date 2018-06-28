@@ -7,6 +7,7 @@ tap 'homebrew/versions'
 tap 'caskroom/fonts'
 
 brew 'npm'
+brew 'yarn'
 brew 'nodenv'
 brew 'node-build'
 brew 'git'
