@@ -11,6 +11,7 @@ brew 'yarn'
 brew 'nodenv'
 brew 'node-build'
 brew 'git'
+brew 'git-extras'
 brew 'jenv'
 brew 'bash_completion'
 
