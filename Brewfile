@@ -14,6 +14,7 @@ brew 'git'
 brew 'git-extras'
 brew 'jenv'
 brew 'bash_completion'
+brew 'watch'
 
 cask 'docker'
 cask 'google-chrome'
