@@ -8,6 +8,7 @@ tap 'adoptopenjdk/openjdk'
 
 brew 'npm'
 brew 'yarn'
+brew 'grunt'
 brew 'nodenv'
 brew 'node-build'
 brew 'git'
