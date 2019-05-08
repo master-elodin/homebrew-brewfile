@@ -27,6 +27,7 @@ cask 'slack'
 cask 'adoptopenjdk/openjdk/adoptopenjdk8'
 
 brew 'openssl'
+brew 'tldr'
 
 brew 'docker'
 brew 'docker-compose'
