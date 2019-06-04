@@ -6,6 +6,7 @@ tap 'homebrew/services'
 tap 'caskroom/fonts'
 tap 'adoptopenjdk/openjdk'
 
+brew 'gradle'
 brew 'npm'
 brew 'yarn'
 brew 'grunt'
