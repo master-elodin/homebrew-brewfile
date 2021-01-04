@@ -1,9 +1,9 @@
 ### Standard Kegs
-tap 'caskroom/cask'
+tap 'homebrew/cask'
 tap 'homebrew/bundle'
 tap 'homebrew/core'
 tap 'homebrew/services'
-tap 'caskroom/fonts'
+tap 'homebrew/cask-fonts'
 tap 'adoptopenjdk/openjdk'
 
 brew 'gradle'
